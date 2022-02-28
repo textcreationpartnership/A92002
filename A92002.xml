@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ranters bible or, Seven several religions by them held and maintained. With the full particulars of their strange sects and societies; their new places of meetings, both in city and countrey; the manner of their life and conversation; their blasphemous opinion of our Lord and Saviour Jesus Christ, and their burning of his blessed word, and sacred Scriptures; ... A strange voice from heaven speaking to one Mr. Roulston, a London-ranter, upon his going from White-Chappel, to meet some of his fellow-creatures at Hackney ... And Mr. Roulston's letter to his late fellow-ranters, with his advice and proposals, to be published in all cities, and market-townes, throughout England and Wales. / Published by Mr. Gilbert Roulston, a late Fellow-Ranter.</title>
+            <author>Roulston, Gilbert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92002</idno>
+            <idno type="STC">Wing R2006</idno>
+            <idno type="STC">Thomason E619_6</idno>
+            <idno type="STC">ESTC R206365</idno>
+            <idno type="EEBO-CITATION">99865526</idno>
+            <idno type="PROQUEST">99865526</idno>
+            <idno type="VID">117771</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117771)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E619[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ranters bible or, Seven several religions by them held and maintained. With the full particulars of their strange sects and societies; their new places of meetings, both in city and countrey; the manner of their life and conversation; their blasphemous opinion of our Lord and Saviour Jesus Christ, and their burning of his blessed word, and sacred Scriptures; ... A strange voice from heaven speaking to one Mr. Roulston, a London-ranter, upon his going from White-Chappel, to meet some of his fellow-creatures at Hackney ... And Mr. Roulston's letter to his late fellow-ranters, with his advice and proposals, to be published in all cities, and market-townes, throughout England and Wales. / Published by Mr. Gilbert Roulston, a late Fellow-Ranter.</title>
+                  <author>Roulston, Gilbert.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. and are to be sold in Cornhil, near the Exchange, and at Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ranters --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117771:1" rendition="simple:additions"/>
+            <p>The Ranters Bible OR, Seven ſeveral Religions by them held and maintained.</p>
+            <p>WITH <hi>The full particulars of their ſtrange Sects and Societies; their new places of meetings, both in City and Countrey; the manner of their life and converſation; their blasphemous Opini<g ref="char:EOLhyphen"/>on of our Lord and Saviour Jeſus Chriſt, and their burning of his bleſſed</hi> WORD,
+<hi>and ſacred Scriptures; the names of their new gods, and worſhiping of the Sun, and three black Clouds; with the manner of their idolizing them, North, Weſt, Eaſt, and South; their drink<g ref="char:EOLhyphen"/>ing of healths to the Devill, and dispoſing of places in Hell; their blaſphemous Creed and Letany; their Savage Opinion to ly with any mans wife, either in houſes, fields, or ſtreets, in the preſence of hundreds of people; their Declaration in</hi> Kent; <hi>the apprehending of</hi> 30 <hi>of them neer <hi>Uxbridge,</hi> with their trials and examinations, and the routing and diſperſing the reſt of their fellow ranters neer</hi> Lin <hi>in</hi> Norfolk: <hi>A ſtrange voice from heaven speaking to one</hi> Mr. Roulſton, <hi>a</hi> London-Ranter, <hi>upon his going from White-Chappel, to meet ſome of his fellow-Creatures at Hackney, and the great things that happened thereupon, to the admiration of the Reader: the coming in of</hi> 700 <hi>ſince the ſecond of this inſtant December, their Recantation, Oath, and Proteſtation. And</hi> Mr. Roulſton's <hi>Letter to his late fellow-Ranters, with his Advice and Propoſals, to be publiſhed in all Cities, and Market-townes, throughout</hi> England
+<hi>and</hi> Wales.</p>
+            <p>Publiſhed by Mr. <hi>Gilbert Roulſton,</hi> a late Fellow-RANTER.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>J. DOWNAME.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <figDesc>diagram showing the movement of the sun and stars</figDesc>
+            </figure>
+            <p>London, <hi>Printed by</hi> J. C. <hi>and are to be ſold in</hi> Cornhil, <hi>near the</hi> Ex<g ref="char:EOLhyphen"/>change, <hi>and at</hi> Temple-Bar, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:117771:2"/>
+            <pb n="1" facs="tcp:117771:2"/>
+            <head>The <hi>Ranters Bible,</hi> &amp;c.</head>
+            <p>
+               <hi>GReat are the troubles of this Age, in reſpect of that perſecution on all ſides, that hardly one o<g ref="char:EOLhyphen"/>pinion can afford another a good word. And what is the reaſon of all this? Sure it is not of</hi> God, <hi>but of the Man of ſin, who was a murtherer from the beginning: This ſpirit of perſecution hath not ceaſed to work, ſince</hi> Adams <hi>fall, going amongſt rich and poor, high and low, to ſet them at variance, and divide them in judgment; and as God is the Authour of all good, ſo the Devil is the Authour of all evil, being now very bu<g ref="char:EOLhyphen"/>ſie and active in this Nation, for the depriving of the poor people of their Soul-ſalvation, ſowing the</hi> Athei<g ref="char:EOLhyphen"/>ſtical Seed <hi>in the hearts of divers, by which meanes they are too prone to fall from their former principles, ſtu<g ref="char:EOLhyphen"/>dying and practiſing new-found devices, and Hel-bred ſtratagems, as will appear by this enſuing Relation, wherein is contained a deſcription of the ſeveral Sects, Societies and Factions of the new Generation of thoſe called</hi> Ranters,
+<hi>both in City and Countrey, and the par<g ref="char:EOLhyphen"/>ticulars of their ſeveral Tenents,</hi> viz.</p>
+            <pb n="2" facs="tcp:117771:3"/>
+            <figure>
+               <head>The Ranters new God.</head>
+               <p>North East West <hi>☉ ♍ in</hi> South</p>
+            </figure>
+            <pb n="3" facs="tcp:117771:3"/>
+            <p n="2">
+               <hi>II.</hi> Another ſort of Ranters are called by the name of <hi>Shelome<g ref="char:EOLhyphen"/>thites,</hi> who hold ſwearing but a Complement, and blaſphemy a badge of honour, accounting that fellow-Creature, the greatest and moſt wor<g ref="char:EOLhyphen"/>thy, that can invent the chiefeſt Oaths, ſpringing from the bitter and fiery lake of Hell and Pluto: Of this wicked Generation, a party of them were lately diſcovered near <hi>Uxbridge,</hi> who upon examination before a Juſtice of Peace, confeſſed. That they held it lawful ſo to do, reſolutely breaking forth in moſt bitter and unchriſtian like language againſt all thoſe who endeavoured to turn them from theſe deſperate and ſoul-dam<g ref="char:EOLhyphen"/>ning opinion; but ſince their reſtraint of liberty, divers of them have deteſted againſt this diabolical way, proteſting, againſt their infernal te<g ref="char:EOLhyphen"/>nents, and Hel-bred principles, and utterly diſavowing any fellowſhip or ſociety with them for the time to come; and promiſing a diſcovery of all others of the like nature, reſident in thoſe parts, or elſe-where.</p>
+            <p n="3">III. Another ſort of Ranters are called by the name of <hi>Clements,</hi> who are perſwaded that after death (notwithſtanding their laſcivious actions, as aforeſaid) they may repent in the world to come; and that it is then ſure enough to ſeek Gods mercy, which abſur'd and falſe Opinion, cau<g ref="char:EOLhyphen"/>ſeth divers, both in City and Country, to attend to this blaſphemous Crew, and wholly to caſt off their blaſphemous principles of Chriſtianity, and ſobriety of life: <hi>O the ignorance of theſe times! that men ſhould fall from the ways of truth and comply with the ſpirit of darkneſs.</hi>
+            </p>
+            <p n="4">IV. Another ſort of Ranters are called by the name of <hi>Athians,</hi> who affirm, that when the body dies, the ſoul periſheth, and both ſhall be re<g ref="char:EOLhyphen"/>ceived again at the day of judgement: which Doctrine is ſomething like that which lately poſſeſſed divers about
+<hi>Lin</hi> in <hi>Norfolk,</hi> who at a meeting the <hi>17.</hi> of <hi>Novemb.</hi> laſt, would needs take upon them to main<g ref="char:EOLhyphen"/>tain this point to be juſt and right; but others of their late Brethren, af<g ref="char:EOLhyphen"/>ter a ſerious and great diſpute, wholly denied this tenent, and publickly declared, That in reſpect of that condition in which the ſoul is stated, (which being immortal cannot die) ſhall be increaſed, but never chang<g ref="char:EOLhyphen"/>ed: To which principle above <hi>100.</hi> came in, there preſent decla<g ref="char:EOLhyphen"/>ring themſelves enemies to all thoſe who perſiſted in that blaſphemous opinion; inſomuch, that ſome of thoſe that refuſed to re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eive converſi<g ref="char:EOLhyphen"/>on, were apprehended; others eſcaped; but, <hi>in fine,</hi> they all received a blow, and were all ſubdued and ro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted.</p>
+            <p n="5">
+               <hi>V.</hi> Another ſort of Ranters are called by the name of <hi>Nicholartanes,</hi> much like the former, who lived promiſſiouſly, like Beaſts, no man ha<g ref="char:EOLhyphen"/>ving his own proper wife, but uſing any Woman at their pleaſure, and thirſting after their proprieties and eſtates: Theſe are not only plunde<g ref="char:EOLhyphen"/>rers, but Robbers of their very skins and bones.</p>
+            <pb n="4" facs="tcp:117771:4"/>
+            <p n="6">
+               <hi>VI.</hi> Theſe ſorts of <hi>Ranters</hi> are called by the name of
+<hi>Marcious,</hi> who believe that there are two Gods, one the Authour of all good, the other of all evil things; which Sect <hi>Paipiripes,</hi> in his time, called <hi>The firſt born of the Devil,</hi> and in theſe latter times, too too many hold theſe erroneous Opinions, there being a Generation ſprung up, who have a great reſpect to obſerve the traditions of men, but deny Scriptures, holding this dangerous Diſcipline, (which the mad and ranting <hi>Ranters,</hi> calls his <hi>B<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le,</hi>) That <hi>Swearing, whoring, Roaring, Revelling, Bl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<g ref="char:EOLhyphen"/>pheaming,</hi> and the greateſt vices they can imagine, are the only acti<g ref="char:EOLhyphen"/>ons of honour to bring them to happineſs; and in which happineſs, they aſ<g ref="char:EOLhyphen"/>ſume to themſelves a right, by drinking Healths to the Devil, and caſt<g ref="char:EOLhyphen"/>ing lots for the diſpoſing of places in Hell; but ſome amongſt the reſt, being indu'd with the ſpirit of Grace, upon the carouzing of the Cup a<g ref="char:EOLhyphen"/>bout, in like manner aforeſaid, at a meeting near the <hi>Wild</hi> in <hi>Kent;</hi> when it came to their turns to drink, refuſed the ſame, ſaying,
+<q>
+                  <lg>
+                     <l>From this wicked Company of Atheiſts,</l>
+                     <l>And from their wicked plots and conſpiracies,</l>
+                     <l>
+                        <hi>Good Lord deliver us all.</hi>
+                     </l>
+                  </lg>
+               </q>
+            </p>
+            <p>
+               <hi>Where upon this infernal Crew, began ro utter many bitter rex<g ref="char:EOLhyphen"/>ecrations, and blaſpheaming Vows and Proteſtations, to ſend them head-long to the Devil, which the reformed</hi> Ranters,
+<hi>before ſpoken of, hearing, imediately fell upon them, and beat them exceedingly, uttering theſe words,</hi> Where is your Devil and dark Angels, that can delive<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you out of our hands; for although we were a long time blinded by the Man of ſin, we are now by the tender mercies of <hi>Jeſus Chriſt,</hi> and by the influence of his Divine Spirit, restored again unto light; and therefore are reſolved to partake no longer with you in your abominable and deteſtable vanities, <hi>&amp;c. Which words ſtruck ſuch a terror to their former fellow-Creatures, that they all unanimouſly reſolved to lead a new life, to withdraw from the Gulf of Hell, and to betake themſelves to the true Soul-ſaving Goſpel Road, and ſo with great alacrity and joy parted quietly, betaking themſelves to their reſpective places of habitation.</hi>
+            </p>
+            <p n="7">
+               <hi>VII.</hi> Another ſort of theſe notorious <hi>Ranters,</hi> both in City and Countrey, are called by the name of <hi>Selentian Donatiſts;</hi> who hold an opinion, that neither the word of God, (for the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ible they burn nor a<g ref="char:EOLhyphen"/>ny under the Canopy of Heaven, can make ſo perfect a Church, as their
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Diſcipline; denying all powers, and refuſing to ſubmit to any Go<g ref="char:EOLhyphen"/>vernment, erected either by <hi>Kings</hi> or <hi>Parliament,</hi> being of an opinion,
+<pb n="5" facs="tcp:117771:4"/>that the <hi>Moſſe</hi> whereof God made the
+<hi>Elements,</hi> was coeternal with him, and that Chriſt in his Aſcention uncloathed himſelf of the fleſh of Man, and left it in the Globe of the <hi>Sun;</hi> and thereupon hold this erro<g ref="char:EOLhyphen"/>neous Tenent, that it is only lawful for them to idolize and adore the <hi>Sun,</hi> and the <hi>3.</hi> Clouds, wherein its ſplendor is ſundry times eclipſed and darkened, being of this idolatrous and dangerous Opinion, that after this life there, their bodies ſhall reſt for ever. Theſe ſort of <hi>Ranters,</hi> are of a vain-glorious opinion, ſteering their ways and actions, by the con<g ref="char:EOLhyphen"/>courſe of the Stars; for towards the Evening, ſo ſoon as the bright<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> met, called the <hi>Shephard-ſtar,</hi> appears, they frequent their <hi>Babyloniſh</hi> meetings, the ſaid <hi>Star</hi> being the word and ſign, given out by theſe infer<g ref="char:EOLhyphen"/>nal Creatures, for the calling in of their diabolical Flocks; and upon their diſſembling together, they exerciſe themſelves in nothing elſe, but lacivious and unapparalleld vices, accounting it no ſin for hundreds of Men and Women (ſavage-like) to lie with each other, publickly all together, either in Houſes, Fields, or Streets, which is their conſtant courſe upon ſeveral meetings. And one amongſt the reſt, of theſe rant<g ref="char:EOLhyphen"/>ing Crew, obſerving the time when the <hi>Shepheards-Star</hi> ſhould appear; to the end, he might give his perſonal reſidence amongſt them; upon his going from his own houſe in <hi>White-Chappel,</hi> to <hi>Pluto's</hi> Flock, en<g ref="char:EOLhyphen"/>folding each other near
+<hi>Hackney,</hi> he heard a loud voice ſounding in his mind, as followeth, <hi>Leave off thy abominable ways, and return from whence thou comeſt; for after all ſuch things only wicked men ſeek.</hi> And as he heard this voice ſounding in his heart, ſo alſo his Con<g ref="char:EOLhyphen"/>ſcience accuſed him, that he was one of thoſe wicked men, ſpending his precious time in lacivious, ſhameleſs, and intemperate ſocieties with o<g ref="char:EOLhyphen"/>ther Women: whereupon, he imediately fell down on his knees, praiſing the great God of Heaven, for this his great change and converſion; and upon his imediate reſurrection, betook himſelf to privacy for a time, writing this enſuing Letter, to his former Ranting Aſſociates.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Dear Friends,</salute>
+                  </opener>
+                  <p>
+                     <hi>JT hath always been the ſubtilty of the</hi> Serpent, <hi>that old Devil, ſince Man had a being, to ſeek to deceive and deſtroy him, and to take him off from his being, and his well-being, and as God u<g ref="char:EOLhyphen"/>ſeth all means to do Mankind good, ſo</hi> Satan <hi>ſeeketh by all the means he can to do them hurt, in every age; and ſo much the more, as the light doth appear in every age, transforming himſelf
+<pb n="6" facs="tcp:117771:5"/>like an Angel of light, that he may appear glorious in them, when he is nothing in ſubſtance, and in this age more then ever; becauſe his Kingdom and black</hi> Angels <hi>begins to be full of darkneſs; he ſees its high time to ſtir, or elſe to loſe all, and is now labouring to overthrow the foundations of your faith, by taking you off from ſearching the Scriptures, by denying the word, and burning the ſacred Writ,</hi> &amp;c. <hi>utterly deteſting againſt</hi> Chriſt <hi>and his truth, which truth we muſt all yield to, or elſe you are damned: And for <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> part, I do wholly imbrace it, denying and abhorring the wick<g ref="char:EOLhyphen"/>ed courſe of life, which formerly I delighted in, with you, for the ſpace of 7. years, and odd moneths; during which time, I con<g ref="char:EOLhyphen"/>ceived my ſelf to be in a happy condition; but being near to the very edge of the brink of the infernal lake and bottomelſs pit of Hell, then came the Lord God in a terrible voice into my heart, ſaying,</hi> Leave off thy wicked ways, and return from whence thou cameſt, for after all ſuch things even wicked men ſeek: <hi>Theſe words I heard dolefully ſounding, even when I was coming to your Diabolical meeting, which cauſed me to return back: And therefore friends, I do humbly implore you, in the name of Jeſus Chriſt, to leave off your wicked wayes, and to lay hold on the truth; for he that acts againſt truth, acts againſt God: His truth is the greateſt Champion, and breaks all the Armour and Weapons that it fights with; for it is a ſoul-ſaving Weapon, and no Weapon formed againſt it ſhall proſper; to thoſe that yield, he ſhews mer<g ref="char:EOLhyphen"/>cy, and to thoſe that will not, his blowes are mortal: Therefore dear friends, be not found fighters againſt God, leaſt he tear you in peeces, and there be none to help; for on whomſoever this ſtone ſhall fall, it ſhall grind him to peeces. Now the Lord Jeſus Chriſt give you underſtanding in theſe things, and ſo I reſt,</hi>
+                  </p>
+                  <closer>
+                     <signed>Yours in the Lord, G. R.</signed>
+                     <dateline>White-Chappel
+<date>Decemb. <hi>4. 1650.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="printer_to_the_reader">
+            <p>
+               <hi>REader,</hi> ſince the writing of this Letter, above <hi>700.</hi> are come in but by reaſon of a new Treatiſe preparing for the Preſs, I ſhall inſiſt no further at preſent; but referreth thee to that ſubject, which contains a <hi>7.</hi> years Chronicle of all their ways, lives, and actions.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
